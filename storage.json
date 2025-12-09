@@ -1,0 +1,69 @@
+{
+  "sets": {
+    "1": {
+      "id": 1,
+      "links": [
+        {
+          "url": "http://google.com",
+          "status": "available"
+        }
+      ],
+      "created_at": "2025-12-09T18:06:24.2055298+03:00",
+      "updated_at": "2025-12-09T18:06:24.5582632+03:00"
+    },
+    "2": {
+      "id": 2,
+      "links": [
+        {
+          "url": "http://yandex.ru",
+          "status": "available"
+        },
+        {
+          "url": "http://nonexistent-test-domain-123.xyz",
+          "status": "unavailable"
+        }
+      ],
+      "created_at": "2025-12-09T18:07:33.8291489+03:00",
+      "updated_at": "2025-12-09T18:07:33.9837718+03:00"
+    },
+    "3": {
+      "id": 3,
+      "links": [
+        {
+          "url": "http://yandex.ru",
+          "status": "available"
+        },
+        {
+          "url": "http://nonexistent-test-domain-123.xyz",
+          "status": "unavailable"
+        }
+      ],
+      "created_at": "2025-12-09T18:07:40.4322697+03:00",
+      "updated_at": "2025-12-09T18:07:40.4942301+03:00"
+    },
+    "4": {
+      "id": 4,
+      "links": [
+        {
+          "url": "http://yandex.ru",
+          "status": "available"
+        },
+        {
+          "url": "http://github.com",
+          "status": "available"
+        },
+        {
+          "url": "http://nonexistent-test-domain-12345.xyz",
+          "status": "unavailable"
+        },
+        {
+          "url": "http://stackoverflow.com",
+          "status": "unavailable"
+        }
+      ],
+      "created_at": "2025-12-09T18:07:58.3189644+03:00",
+      "updated_at": "2025-12-09T18:07:58.6513697+03:00"
+    }
+  },
+  "next_id": 5
+}
